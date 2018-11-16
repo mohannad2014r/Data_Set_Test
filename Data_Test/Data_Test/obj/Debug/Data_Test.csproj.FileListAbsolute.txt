@@ -1,0 +1,12 @@
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\obj\Debug\Data_Test.csprojAssemblyReference.cache
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\obj\Debug\Data_Test.Form1.resources
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\obj\Debug\Data_Test.Properties.Resources.resources
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\obj\Debug\Data_Test.csproj.GenerateResource.cache
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\obj\Debug\Data_Test.csproj.CoreCompileInputs.cache
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\bin\Debug\Database1.mdf
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\bin\Debug\Database1_log.ldf
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\bin\Debug\Data_Test.exe.config
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\bin\Debug\Data_Test.exe
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\bin\Debug\Data_Test.pdb
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\obj\Debug\Data_Test.exe
+C:\Users\Killer7\Desktop\Test\Data_test2\Data_test2\Data_Test\Data_Test\obj\Debug\Data_Test.pdb
